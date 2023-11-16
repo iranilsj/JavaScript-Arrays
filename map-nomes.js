@@ -2,7 +2,7 @@
 const nomes = ['ana julia', 'Caio', 'vinicius', 'BIA', 'iran'];
 
 // outra opcao sem colocar o "Return" eliminando as chaves 
-const nomesPadronizados = nomes.map((nome) =>  nome.toUpperCase());
+const nomesPadronizados = nomes.map((nome) => nome.toUpperCase());
 
 // 1) Exemplo de console.log  forma em  lista
 console.log(nomesPadronizados);
